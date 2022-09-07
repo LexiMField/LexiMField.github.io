@@ -13,4 +13,4 @@ Similarities: both groups need to have a foundation in statistical studies. Both
 
 How do you view yourself in relation to these two areas?
 I view myself as a beginner in both of these fields and I am personally still working on discerning between the two and where each field will come into play during my academic and professional careers. I think that the skills associated with both statistics and data science will be useful to me as I go into the field of research. I hope to use aspects of both to make the most of the data I collect.
-![image](https://user-images.githubusercontent.com/112139050/187008590-41032636-cc18-4c64-81bf-e4b4b5777a4c.png)
+
