@@ -1,4 +1,4 @@
-# Prject 2 Reflection
+# Project 2 Reflection
 My group chose to do our EDA project using the Foods API on spoonacular.
 We created several functions for people to use to find different information within the API.
 Some of the functions we made include one to get recipes by different cuisine types, one to show wine reccomendations from wines in the API and functions which return food options based on calories.
